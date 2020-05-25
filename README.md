@@ -1,4 +1,4 @@
-# daily_meal_app
+# Daily Meal App
 
 A new Flutter project.
 
